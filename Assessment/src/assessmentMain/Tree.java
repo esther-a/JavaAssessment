@@ -54,3 +54,5 @@ public class Tree
 
 	
 }
+
+/* this class was for creating tree objects that would be found in a tree array and be called upon in the swamp class.*/
